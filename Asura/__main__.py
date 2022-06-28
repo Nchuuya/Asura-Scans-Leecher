@@ -53,7 +53,7 @@ async def pdf(name):
 
 
 
-@asura.on_message(get_command("manga"))
+@asura.on_message(get_command("mangaa"))
 async def _asura(_, message):
   if not "asurascans.com" in message.text:
     return await message.reply_text("**Usage **:\n× `/manga` url")
@@ -93,7 +93,7 @@ async def _asura(_, message):
   return os.remove(pd)
 
 
-@asura.on_message(get_command("start"))
+@asura.on_message(get_command("startt"))
 async def _start(_, message):
   await message.reply_text(
     text=f"Hi, I am {BOT_NAME}\nI can help you in getting mangas from [Asura Scans](https://asurascans.com) & [Reaper Scans](https://reaperscans.com) and latest updates from [Asura Scans](https://asurascans.com) & [Reaper Scans](https://reaperscans.com)\n\nTo Know About My Commands Click `HELP` button\nTo know about me Click `ABOUT` button",
