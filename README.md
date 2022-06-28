@@ -21,7 +21,7 @@
 
 
 ### 📤 Deploy
-<p><a href="https://heroku.com/deploy?template=https://github.com/AuraMoon55/Asura-Scans-Leecher.git"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/Nchuuya/Asura-Scans-Leecher.git"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 ### 👤 Contact Us
 - [![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/TechZBots)
